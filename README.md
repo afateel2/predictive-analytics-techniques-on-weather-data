@@ -1,4 +1,4 @@
-# WeatherTime- SeriesAnalysis
+# Weather Time-Series Analysis
 
 This project analyzes historical hourly weather data using classical time- series methods and neural network models.
 
