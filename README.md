@@ -6,7 +6,7 @@ This project analyzes historical hourly weather data using classical time- serie
 
 The notebook explores temperature, pressure, and dewpoint dataover multiple days and applies forecasting techniques to predict future pressure values.
 
-## MethodsUsed
+## Methods Used
 
 - Exploratory Data Analysis(EDA)
 - Autocorrelation and variogram analysis
